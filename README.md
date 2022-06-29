@@ -2,7 +2,7 @@
 
 I practiced React, animations on CSS:
 https://forseti93.github.io/
-
+<\hr>
 **********To add site with Redux
 
 **********To add sites while learn React

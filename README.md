@@ -5,6 +5,8 @@ https://forseti93.github.io/
 
 **********To add site with Redux
 
+**********To add sites while learn React
+
 <b>Further will be finished sites from JS course:</b> <br/>
 I did only JS + a little HTML and CSS/SCSS for animations. 95% part of HTML and CSS of sites were ready
 

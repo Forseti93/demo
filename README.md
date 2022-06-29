@@ -3,7 +3,7 @@
 Practice React, animations on CSS:
 https://forseti93.github.io/
 
-<b>Further will be finished sites from JS course:</b>
+<b>Further will be finished sites from JS course:</b> <br/>
 I did only JS + a little HTML and CSS/SCSS for animations. 95% part of HTML and CSS of sites were ready
 
 ********To add site #4

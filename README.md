@@ -9,7 +9,7 @@ GSAP animation changed on CSS,
 Colors are in separate file for easy editing.
 
 <hr>
-<b>Redux for React up to(including):</b> https://redux.js.org/tutorials/essentials/part-4-using-data <br>
+<b>Redux up to(including):</b> https://redux.js.org/tutorials/essentials/part-4-using-data <br>
 
 https://user-images.githubusercontent.com/40038982/176426808-52e4933e-5103-4ec4-a396-95a875dd2cbe.mp4
 

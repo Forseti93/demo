@@ -1,7 +1,9 @@
 <b>Latest first:</b>
 
-Practice React, animations on CSS:
+I practiced React, animations on CSS:
 https://forseti93.github.io/
+
+**********To add site with Redux
 
 <b>Further will be finished sites from JS course:</b> <br/>
 I did only JS + a little HTML and CSS/SCSS for animations. 95% part of HTML and CSS of sites were ready

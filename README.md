@@ -9,7 +9,7 @@ GSAP animation changed on CSS,
 Colors are in separate file for easy editing.
 
 <hr>
-<b>Redux up to(including):</b> https://redux.js.org/tutorials/essentials/part-4-using-data <br>
+<b>Redux tutorial up to:</b> https://redux.js.org/tutorials/essentials/part-4-using-data (including)<br>
 
 https://user-images.githubusercontent.com/40038982/176426808-52e4933e-5103-4ec4-a396-95a875dd2cbe.mp4
 
@@ -24,7 +24,13 @@ https://user-images.githubusercontent.com/40038982/176426808-52e4933e-5103-4ec4-
 I did only JS + a little HTML and CSS/SCSS for modals pop-ups and similar "floating" JS things. 95% part of HTML and CSS of sites were ready
 
 <hr>
-********To add site #4
+From JS course site №4. Separete classes for repetative elements
+
+https://user-images.githubusercontent.com/40038982/176692385-dfae401a-2fc3-425a-adcd-30c37034e8da.mp4
+
+
+https://user-images.githubusercontent.com/40038982/176692452-c180c3d8-baa2-4769-af81-a43bf3dd79da.mp4
+
 
 <hr>
 From JS course site №3

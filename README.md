@@ -15,7 +15,15 @@ https://user-images.githubusercontent.com/40038982/176426808-52e4933e-5103-4ec4-
 
 <hr>
 <b>React course from FreeCodeCamp:</b> https://youtu.be/bMknfKXIFA8 <br>
-**********To add sites while learn React
+
+![Снимок экрана 2022-06-30 174826](https://user-images.githubusercontent.com/40038982/176708363-5df4ebff-a76e-40bf-8ca9-c4967f213e1b.jpg)
+
+
+https://user-images.githubusercontent.com/40038982/176721359-37dbc851-03e7-4867-9a31-a9e5d9276581.mp4
+
+
+https://user-images.githubusercontent.com/40038982/176730266-163179d6-477c-4d9f-b70a-acaa61a2c479.mp4
+
 
 <hr>
 <b>Further will be finished sites from JS courses:</b> <br/>

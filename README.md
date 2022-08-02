@@ -1,7 +1,7 @@
 <b>Latest first:</b>
 
 <hr>
-Site for architector: https://mktstudio.000webhostapp.com/
+Site for architector (in process of bug-fix and improvement): https://mktstudio.000webhostapp.com/
 
 ![image](https://user-images.githubusercontent.com/40038982/182369893-5fcb725e-44ac-404b-b893-eda7e598a2f5.png)
 

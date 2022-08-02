@@ -5,6 +5,7 @@ Site for architector (in process of bug-fix and improvement): https://mktstudio.
 
 ![image](https://user-images.githubusercontent.com/40038982/182369893-5fcb725e-44ac-404b-b893-eda7e598a2f5.png)
 
+Customer is my friend and we were working together. He did design, I did code. It was simultaneously process, because of it I had a lot code amendments.
 <hr>
 I practiced React, animations:
 https://forseti93.github.io/ <br>

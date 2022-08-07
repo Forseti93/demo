@@ -3,42 +3,43 @@
 <hr>
 Site for architector: https://mktstudio.000webhostapp.com/
 
-![image](https://user-images.githubusercontent.com/40038982/182369893-5fcb725e-44ac-404b-b893-eda7e598a2f5.png)
+![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
 
-App did with React, HTML, SCSS. 
-Contact form: library "emailJS". It works from client side. 
-"Backend": single JS file + folder with projects named as project's id in JS file. 
- {
-    id: 1,
-    type: "architecture",
-    title: "Location Kyivska oblast",
-    titleUA: "Київська область",
-    image: require("../img/projects/architecture/house_2/RV_2_04.jpg"),
-    whatIsOnImage: "House",
-    feature: "House with garage",
-    description: "total area 450m²",
-    descriptionUA: "Площа 450m²",
-    attachments: [
-      {
-        id: 1,
-        describe: "plan-1",
-        describeUA: "план-1",
-        image: require("../img/projects/architecture/house_2/3-001.jpg"),
-        whatIsOnImage: "bedroom",
-      },
-...
-      {
-        id: 6,
-        describe: "",
-        image: require("../img/projects/architecture/house_2/RV_2_06.jpg"),
-        whatIsOnImage: "view on house",
-      },
-    ],
-  },
-  So to Update site, customer will:
-  1) Open data.JS file, create new project, change values.
-  2) Create a folder named "*last id+1*", put inside photos.
-  3) Load folder and data.js on server.
+
+App did with React, HTML, SCSS. <br/>
+Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.<br/>
+"Backend": single JS file + folder with projects named as project's id in JS file. <br/>
+ {<br/>
+    id: 1,<br/>
+    type: "architecture",<br/>
+    title: "Location Kyivska oblast",<br/>
+    titleUA: "Київська область",<br/>
+    image: require("../img/projects/architecture/house_2/RV_2_04.jpg"),<br/>
+    whatIsOnImage: "House",<br/>
+    feature: "House with garage",<br/>
+    description: "total area 450m²",<br/>
+    descriptionUA: "Площа 450m²",<br/>
+    attachments: [<br/>
+      {<br/>
+        id: 1,<br/>
+        describe: "plan-1",<br/>
+        describeUA: "план-1",<br/>
+        image: require("../img/projects/architecture/house_2/3-001.jpg"),<br/>
+        whatIsOnImage: "bedroom",<br/>
+      },<br/>
+...<br/>
+      {<br/>
+        id: 6,<br/>
+        describe: "",<br/>
+        image: require("../img/projects/architecture/house_2/RV_2_06.jpg"),<br/>
+        whatIsOnImage: "view on house",<br/>
+      },<br/>
+    ],<br/>
+  },<br/>
+  So to Update site, customer will:<br/>
+  1) Open data.JS file, create new project, change values.<br/>
+  2) Create a folder named "*last id+1*", put inside photos.<br/>
+  3) Load folder and data.js on server.<br/>
 <hr>
 I practiced React, animations:
 https://forseti93.github.io/ <br>

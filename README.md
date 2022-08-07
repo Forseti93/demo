@@ -1,7 +1,9 @@
 <b>Latest first:</b>
 
 <hr>
-Site for architector: https://mktstudio.000webhostapp.com/
+Now I'm learning how to do a good, scalable portfolio/blog site. Stack: Typescript, React, Redux, Next.JS
+<hr>
+<b>Site for architector:</b> https://mktstudio.000webhostapp.com/
 
 ![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
 

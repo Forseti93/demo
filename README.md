@@ -1,11 +1,44 @@
 <b>Latest first:</b>
 
 <hr>
-Site for architector (in process of bug-fix and improvement): https://mktstudio.000webhostapp.com/
+Site for architector: https://mktstudio.000webhostapp.com/
 
 ![image](https://user-images.githubusercontent.com/40038982/182369893-5fcb725e-44ac-404b-b893-eda7e598a2f5.png)
 
-Customer is my friend and we were working together. He did design, I did code. It was simultaneously process, because of it I had a lot code amendments.
+App did with React, HTML, SCSS. 
+Contact form: library "emailJS". It works from client side. 
+"Backend": single JS file + folder with projects named as project's id in JS file. 
+ {
+    id: 1,
+    type: "architecture",
+    title: "Location Kyivska oblast",
+    titleUA: "Київська область",
+    image: require("../img/projects/architecture/house_2/RV_2_04.jpg"),
+    whatIsOnImage: "House",
+    feature: "House with garage",
+    description: "total area 450m²",
+    descriptionUA: "Площа 450m²",
+    attachments: [
+      {
+        id: 1,
+        describe: "plan-1",
+        describeUA: "план-1",
+        image: require("../img/projects/architecture/house_2/3-001.jpg"),
+        whatIsOnImage: "bedroom",
+      },
+...
+      {
+        id: 6,
+        describe: "",
+        image: require("../img/projects/architecture/house_2/RV_2_06.jpg"),
+        whatIsOnImage: "view on house",
+      },
+    ],
+  },
+  So to Update site, customer will:
+  1) Open data.JS file, create new project, change values.
+  2) Create a folder named "*last id+1*", put inside photos.
+  3) Load folder and data.js on server.
 <hr>
 I practiced React, animations:
 https://forseti93.github.io/ <br>

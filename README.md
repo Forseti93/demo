@@ -9,7 +9,13 @@ Site for architector: https://mktstudio.000webhostapp.com/
 App did with React, HTML, SCSS. <br/>
 Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.<br/>
 "Backend": single JS file + folder with projects named as project's id in JS file. <br/>
- {<br/>
+   So to Update site, customer will:<br/>
+  1) Open data.JS file, create new project, change values.<br/>
+  2) Create a folder named "*last id+1*", put inside photos.<br/>
+  3) Load folder and data.js on server.<br/>
+
+Example of Project in data.js file: <br/>
+{<br/>
     id: 1,<br/>
     type: "architecture",<br/>
     title: "Location Kyivska oblast",<br/>
@@ -36,10 +42,6 @@ Contact form: library "emailJS". It works from client side. Mail will come on cu
       },<br/>
     ],<br/>
   },<br/>
-  So to Update site, customer will:<br/>
-  1) Open data.JS file, create new project, change values.<br/>
-  2) Create a folder named "*last id+1*", put inside photos.<br/>
-  3) Load folder and data.js on server.<br/>
 <hr>
 I practiced React, animations:
 https://forseti93.github.io/ <br>

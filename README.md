@@ -3,7 +3,7 @@
 <hr>
 Now I'm learning how to do a good, scalable portfolio/blog site. Stack: Typescript, React, Redux, Next.JS
 <hr>
-<b>Site for architector (he has added 2 projects already, by himself!):</b> https://mktstudio.000webhostapp.com/
+<b>Site for architector:</b> https://mktstudio.000webhostapp.com/
 
 ![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
 
@@ -11,7 +11,7 @@ Now I'm learning how to do a good, scalable portfolio/blog site. Stack: Typescri
 App did with React, HTML, SCSS. <br/>
 Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.<br/>
 "Backend": single JS file + folder with projects named as project's id in JS file. <br/>
-   So to Update site, customer will:<br/>
+   So to Update site, customer will (he has added 2 projects already):<br/>
   1) Open data.JS file, create new project, change values.<br/>
   2) Create a folder named "*last id+1*", put inside photos.<br/>
   3) Load folder and data.js on server.<br/>

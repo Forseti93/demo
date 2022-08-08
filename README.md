@@ -1,7 +1,7 @@
 <b>Latest first:</b>
 
 <hr>
-Now I'm learning how to do a good, scalable portfolio/blog site. Stack: Typescript, React, Redux, Next.JS
+Now I'm designing and doing a good, scalable personal site. Stack to practice: Typescript, React, Redux, Next.JS. Bootstrap, BEM, SCSS, Git-cmd
 <hr>
 <b>Site for architector:</b> https://mktstudio.000webhostapp.com/
 

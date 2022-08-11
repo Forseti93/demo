@@ -11,40 +11,7 @@ Now I'm designing and doing a good, scalable personal site. Stack to practice: T
 
 App did with React, HTML, SCSS. <br/>
 Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.<br/>
-"Backend": single JS file + folder with projects named as project's id in JS file. <br/>
-   So to Update site, customer will (he has added 2 projects already):<br/>
-  1) Open data.JS file, create new project, change values.<br/>
-  2) Create a folder named "*last id+1*", put inside photos.<br/>
-  3) Load folder and data.js on server.<br/>
-
-Example of Project in data.js file: <br/>
-{<br/>
-    id: 1,<br/>
-    type: "architecture",<br/>
-    title: "Location Kyivska oblast",<br/>
-    titleUA: "Київська область",<br/>
-    image: require("../img/projects/architecture/house_2/RV_2_04.jpg"),<br/>
-    whatIsOnImage: "House",<br/>
-    feature: "House with garage",<br/>
-    description: "total area 450m²",<br/>
-    descriptionUA: "Площа 450m²",<br/>
-    attachments: [<br/>
-      {<br/>
-        id: 1,<br/>
-        describe: "plan-1",<br/>
-        describeUA: "план-1",<br/>
-        image: require("../img/projects/architecture/house_2/3-001.jpg"),<br/>
-        whatIsOnImage: "bedroom",<br/>
-      },<br/>
-...<br/>
-      {<br/>
-        id: 6,<br/>
-        describe: "",<br/>
-        image: require("../img/projects/architecture/house_2/RV_2_06.jpg"),<br/>
-        whatIsOnImage: "view on house",<br/>
-      },<br/>
-    ],<br/>
-  },<br/>
+"Backend": single JS file + folder with projects named as project's id in JS file. Site owner already has added 2 projects. <br/>
 
 <hr>
 I practiced React, animations:

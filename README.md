@@ -2,8 +2,9 @@
 
 <hr>
 Now I'm designing and doing a good, scalable personal site. Stack to practice: Typescript, React, Redux, Next.JS. Bootstrap, BEM, SCSS, Git-cmd
+
 <hr>
-<b>Site for architector:</b> https://mktstudio.000webhostapp.com/
+<b>Site for architector:</b> https://maxarch123.github.io/mkt-studio/
 
 ![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
 
@@ -44,6 +45,7 @@ Example of Project in data.js file: <br/>
       },<br/>
     ],<br/>
   },<br/>
+
 <hr>
 I practiced React, animations:
 https://forseti93.github.io/ <br>

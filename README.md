@@ -1,7 +1,13 @@
 <b>Latest first:</b>
 
 <hr>
+10-aug-2022 </br> 
 Now I'm designing and doing a good, scalable personal site. Stack to practice: Typescript, React, Redux, Next.JS. Bootstrap, BEM, SCSS, Git-cmd
+
+15-aug-2022 </br>
+I have started from the block "finished sites". On the screenshot below, all data is fetching via WPGraphQL from the local host with WordPress. React, Next.js, TypeScript were used in code too.
+
+![image](https://user-images.githubusercontent.com/40038982/184608512-b8127c01-ae89-475b-a60e-70a0ddda901b.png)
 
 <hr>
 <b>Site for architector:</b> https://maxarch123.github.io/mkt-studio/

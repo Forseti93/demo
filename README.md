@@ -7,6 +7,8 @@ Now I'm designing and doing a good, scalable personal site. Stack to practice: T
 15-aug-2022 </br>
 I have started from the block "finished sites". On the screenshot below, all data is fetching via WPGraphQL from the local host with WordPress. React, Next.js, TypeScript were used in code too.
 
+![image](https://user-images.githubusercontent.com/40038982/184608512-b8127c01-ae89-475b-a60e-70a0ddda901b.png)
+
 16-aug-2022 </br>
 I've gotten a test task, that app was paused. 6 days to finish it. Fetch API (GET/POST) trained.
 
@@ -14,7 +16,7 @@ I've gotten a test task, that app was paused. 6 days to finish it. Fetch API (GE
 I've started to learn the TypeScript + Tailwind separately. Base app for practicing will be: https://forseti93.github.io/time-manager-app/ <br/>
 At the same time I look for a job, because of the test task has the highest priority, this app writing is paused often.
 
-![image](https://user-images.githubusercontent.com/40038982/184608512-b8127c01-ae89-475b-a60e-70a0ddda901b.png)
+![image](https://user-images.githubusercontent.com/40038982/189281105-5d055cbd-0799-4601-b61f-231a62af96fb.png)
 
 <hr>
 <b>Site for architector:</b> https://maxarch123.github.io/mkt-studio/

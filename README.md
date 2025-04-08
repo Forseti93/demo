@@ -1,6 +1,9 @@
 <b>Latest first:</b>
 
 <hr>
+2023-2025 Windmill Digital <br/>
+My focus has shifted, and I primarily work as a Shopify developer, creating and customizing e-commerce experiences for clients. Alongside this, I also worked with React.js and WordPress for various website projects.<br/><br/>
+
 4-sep-2022 <br/>
 Did a test task on Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. <br/><br/>
 

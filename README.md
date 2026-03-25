@@ -2,9 +2,8 @@
 
 <hr>
 2025-now | Shopify developer - contractor <br/>
-Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.<br/>
+Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.<br/><br/>
 
-<hr>
 2023-2025 Windmill Digital <br/>
 My focus has shifted, and I primarily work as a Shopify developer, creating and customizing e-commerce experiences for clients. Alongside this, I also worked with React.js and WordPress for various website projects.<br/><br/>
 

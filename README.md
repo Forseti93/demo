@@ -2,7 +2,7 @@
 
 <hr>
 2025-now | Shopify developer - contractor <br/>
-Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.<br/><br/>
+Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.<br/>
 
 <hr>
 2023-2025 Windmill Digital <br/>
